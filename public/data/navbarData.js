@@ -6,24 +6,9 @@ export const navbarData = [
     menuItems: [
       {
         id: "homeONe",
-        title: "Início Um",
+        title: "Início",
         menuItemPath: "/",
-      },
-      {
-        id: "homeTwo",
-        title: "Início Dois",
-        menuItemPath: "/index-two",
-      },
-      {
-        id: "homeThree",
-        title: "Início Três",
-        menuItemPath: "/index-three",
-      },
-      {
-        id: "homeFour",
-        title: "Início Quatro",
-        menuItemPath: "/index-four",
-      },
+      }
     ],
   },
   {
