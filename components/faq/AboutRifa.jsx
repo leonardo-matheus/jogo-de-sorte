@@ -11,7 +11,7 @@ const AboutRifa = () => {
             aria-expanded="true"
             aria-controls="collapse10"
           >
-            How do I deposit funds into my Rifa Lottos account?
+            How do I deposit funds into my MegaGanhos Lottos account?
           </button>
         </div>
         <div

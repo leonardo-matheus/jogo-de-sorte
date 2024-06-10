@@ -62,7 +62,7 @@ const Contest = () => {
                   <span className="me-3">
                     <Image src={car} alt="icon" />
                   </span>
-                  Caro dos Sonhos
+                  Carro dos Sonhos
                 </button>
               </li>
               <li className="nav-item" role="presentation">

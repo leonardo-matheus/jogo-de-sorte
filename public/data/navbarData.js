@@ -2,14 +2,7 @@ export const navbarData = [
   {
     id: "menu1",
     menuTitle: "Início",
-    path: "#",
-    menuItems: [
-      {
-        id: "homeONe",
-        title: "Início",
-        menuItemPath: "/",
-      }
-    ],
+    path: "/",
   },
   {
     id: "menu2",
@@ -54,34 +47,9 @@ export const navbarData = [
     path: "#",
     menuItems: [
       {
-        id: "aboutUs",
-        title: "Sobre Nós",
-        menuItemPath: "/about",
-      },
-      {
-        id: "affiliatePage",
-        title: "Página de Afiliados",
-        menuItemPath: "/affiliate",
-      },
-      {
-        id: "howItWorks",
-        title: "Como Funciona",
-        menuItemPath: "/how-work",
-      },
-      {
         id: "userPanel",
         title: "Painel do Usuário",
         menuItemPath: "/user",
-      },
-      {
-        id: "blog",
-        title: "Blog",
-        menuItemPath: "/blog",
-      },
-      {
-        id: "blogSingle",
-        title: "Blog Individual",
-        menuItemPath: "/blog-single",
       },
       {
         id: "cartPage",
@@ -114,11 +82,6 @@ export const navbarData = [
         menuItemPath: "/user-transaction",
       },
       {
-        id: "faqPage",
-        title: "Página de Perguntas Frequentes",
-        menuItemPath: "/faq",
-      },
-      {
         id: "page404",
         title: "Página 404",
         menuItemPath: "/404",
@@ -127,7 +90,7 @@ export const navbarData = [
   },
   {
     id: "menu5",
-    menuTitle: "Contato",
-    path: "/contact",
+    menuTitle: "Minha conta",
+    path: "/user",
   },
 ];

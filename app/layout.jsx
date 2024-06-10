@@ -10,8 +10,8 @@ import "../public/css/modal-video.scss";
 import "../styles/main.sass";
 
 export const metadata = {
-  title: "Rifa - Online Lotto & Lottery Reactjs + Nextjs Template",
-  description: "NextJs Template",
+  title: "MegaGanhos",
+  description: "Prémios Incríveis",
 };
 
 export default function RootLayout({ children }) {
