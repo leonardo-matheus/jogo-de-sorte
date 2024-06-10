@@ -54,7 +54,7 @@ const Hero = () => {
             <div className="col-xl-7 col-lg-8 col-md-10">
               <div className="hero__content">
                 <div className="hero__subtitle">play anytime, any where</div>
-                <h2 className="hero__title">Win Big With Rifa</h2>
+                <h2 className="hero__title">Win Big With MegaGanhos</h2>
                 <p className="">
                   Don&#39;t miss your chance.Will you be our next lucky winner?
                 </p>

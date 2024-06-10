@@ -139,7 +139,7 @@ const FaqBody = () => {
                   role="tabpanel"
                   aria-labelledby="about-tab"
                 >
-                  {/* About Rifa here */}
+                  {/* About MegaGanhos here */}
                   <AboutRifa />
                 </div>
               </div>

@@ -14,13 +14,13 @@ const Error = () => {
               </div>
               <div className="error-wrapper__content">
                 <h2 className="title">
-                  The page you are looking for doesn&#39;t exist!
+                  A página não existe!
                 </h2>
                 <Link
                   href="/"
                   className="cmn-btn d-inline-flex flex-wrap align-items-center active"
                 >
-                  GO BACK HOME <i className="las la-long-arrow-alt-right"></i>
+                  Voltar ao início <i className="las la-long-arrow-alt-right"></i>
                 </Link>
               </div>
             </div>

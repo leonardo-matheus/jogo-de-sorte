@@ -58,7 +58,7 @@ const Support = () => {
                 <Image src={support_2} alt="imagem" />
               </div>
               <div className="support-card__content">
-                <h3 className="support-card__title">Nosso Guia para Rifa</h3>
+                <h3 className="support-card__title">Nosso Guia para MegaGanhos</h3>
                 <p>Confira nossas perguntas frequentes para ver se podemos ajudar você.</p>
                 <div className="btn-grp justify-content-xl-start mt-3">
                   <Link
